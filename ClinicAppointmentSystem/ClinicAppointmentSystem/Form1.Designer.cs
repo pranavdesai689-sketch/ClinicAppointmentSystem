@@ -33,11 +33,11 @@
             // 
             // button1
             // 
-            button1.Location = new Point(54, 52);
+            button1.Location = new Point(24, 12);
             button1.Name = "button1";
             button1.Size = new Size(232, 79);
             button1.TabIndex = 0;
-            button1.Text = "button1";
+            button1.Text = "checjgrm";
             button1.UseVisualStyleBackColor = true;
             // 
             // Form1
